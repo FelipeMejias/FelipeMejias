@@ -1,5 +1,11 @@
-### Hi there 👋
 
+Entre trocas de caminhos como Engenharia e Arquitetura, encontrei em a programação.
+Desde então a certeza e a vontade de programar me deram uma nova razão.
+Cursando a Driven, me tornei apto a desenvolver websites completos, com front-end e back-end.
+Como projeto autoral, fiz um planer de horários em conjunto:
+
+
+##[PLANERA](https://www.planera.online)
 <!--
 **FelipeMejias/FelipeMejias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
