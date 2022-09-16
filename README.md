@@ -5,7 +5,7 @@ Cursando a Driven, me tornei apto a desenvolver websites completos, com front-en
 Como projeto autoral, fiz um planer de horários em conjunto:
 
 
-##[PLANERA](https://www.planera.online)
+[PLANERA](https://www.planera.online)
 <!--
 **FelipeMejias/FelipeMejias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
