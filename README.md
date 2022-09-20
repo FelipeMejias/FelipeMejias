@@ -1,6 +1,6 @@
 
 - Formado em Driven Education, me tornei apto a desenvolver websites full stack, com front-end e back-end.
-- Como projeto autoral, fiz um planer de horários em conjunto: [PLANERA](https://www.planera.online)
+- Como projeto autoral, fiz um planer de horários online em conjunto através de grupos: [PLANERA](https://www.planera.online)
 
 <span style="width=50%">
 
