@@ -1,8 +1,8 @@
 
-- Full-Stack developer at Driven Education
-- main projects:
-## [FutBase](https://futbase.vercel.app)
-## [Planera](https://planera.vercel.app)
+## Full-Stack developer at Driven Education
+#### Main projects:
+##### [FutBase](https://futbase.vercel.app)
+##### [Planera](https://planera.vercel.app)
 
 <span style="width=50%">
 
