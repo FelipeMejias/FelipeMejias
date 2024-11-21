@@ -1,6 +1,6 @@
 
-- at Driven Education, I became able to develop full stack websites.
-- as authoral project, I made a online group planner: [PLANERA](https://www.planera.online)
+- Full-Stack developer at Driven Education
+- main projects: [FUTBASE](https://futbase.vercel.app) [PLANERA](https://planera.vercel.app)
 
 <span style="width=50%">
 
